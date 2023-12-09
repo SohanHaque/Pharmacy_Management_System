@@ -1,0 +1,36 @@
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Admin.resources
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.NewUser.resources
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Pharmacist.resources
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.User.resources
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Issues.resources
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.NewPharmacist.resources
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.NewAdmin.resources
+C:\Users\FC\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminUC.UC_1.resources
+F:\C# project\New folder\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+F:\C# project\New folder\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+F:\C# project\New folder\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Admin.resources
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminUC.UC_1.resources
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Issues.resources
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.NewAdmin.resources
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.NewPharmacist.resources
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.NewUser.resources
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Pharmacist.resources
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.User.resources
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+F:\C# project\New folder\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
